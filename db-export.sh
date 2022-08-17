@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Context information:";
 kubectl config get-contexts
 echo "";
